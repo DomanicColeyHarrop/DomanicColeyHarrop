@@ -16,7 +16,7 @@ I’m interested in graduate opportunities in cybersecurity and technology. My u
 **Network security assessment**  
 Configured a virtual security lab, investigated network services using Nmap, and tested pfSense firewall rules by reviewing traffic logs.
 
-**School administration database**  
+**[School administration database](https://github.com/DomanicColeyHarrop/school-administration-database)**  
 Created an 11-table SQLite database covering students, staff, courses, enrolments, payments and certificates.
 
 **MotoGP guide prototype — ongoing**  
